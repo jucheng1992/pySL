@@ -1,5 +1,5 @@
 # pySL
-simple python version of validation-based Super Learner.
+A simple python version of validation-based Super Learner.
 
 It also offers options to make prediction by other commonly used ensemble methods, like Bayes Optimal Classifier, majority voting, and naive averaging. See more detailed examples in example.ipynb.
 
